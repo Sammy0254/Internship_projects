@@ -18,7 +18,7 @@ Shopmart - a modern and responsive e-commerce web application designed to provid
 - **Routing**: React Router
 - **Styling**: CSS, Bootstrap
 
-## Installation
+## Installations
 
 Follow these steps to set up the project locally:
 

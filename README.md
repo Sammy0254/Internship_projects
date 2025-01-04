@@ -2,7 +2,7 @@
 
 Shopmart - a modern and responsive e-commerce web application designed to provide a seamless shopping experience. Built with **React.js**, **Redux**, and **Bootstrap**, this project demonstrates the integration of front-end and back-end technologies for a functional and user-friendly application.
 
-## Features
+## The Features
 
 - **Product Listing**: Browse a wide range of products with detailed descriptions, images, and prices.
 - **Dynamic Product Pages**: View individual product details fetched dynamically using REST APIs.

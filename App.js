@@ -5,7 +5,6 @@ import Home from "./component/Home";
 import Products from "./component/Products";
 import Product from "./component/Product";
 import { Routes, Route } from "react-router-dom";
-
 function App() {
   return (
     <>
@@ -19,5 +18,4 @@ function App() {
     </>
   );
 }
-
 export default App;
